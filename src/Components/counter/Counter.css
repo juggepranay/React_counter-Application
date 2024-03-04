@@ -1,0 +1,29 @@
+body{
+    background-color: cornsilk;
+}
+button{
+    font-size: large;
+    width: 75px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    border-color:black ;
+    border: 2px solid;
+}
+.plusButton{
+    background-color:chocolate;
+    
+}
+.count{
+    font-size: 70px;
+    padding: 100px;
+}
+.onegroup,.fivegroup,.tengroup{
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    
+}
+.resetButton{
+    background-color:burlywood;
+}
