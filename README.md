@@ -1,4 +1,5 @@
-# React Counter Application
+# My First React Application
+## Counter Application
 ## Overview
 This is a simple React application that provides a counter functionality. Users can increment, decrement, and reset the counter to zero. It serves as a basic example for understanding React state management and component interactions.
 
